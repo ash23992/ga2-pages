@@ -30,6 +30,22 @@
     "electronics": {
       "count": 6,
       "inventoryValue": 143218.50
+    },
+    "clothing": {
+      "count": 2,
+      "inventoryValue": 92261.05
+    },
+    "sports": {
+      "count": 4,
+      "inventoryValue": 70351.24
+    },
+    "home": {
+      "count": 7,
+      "inventoryValue": 59801.47
+    },
+    "books": {
+      "count": 2,
+      "inventoryValue": 83569.02
     }
   }
 }
